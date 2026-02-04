@@ -1,4 +1,4 @@
-# Bienvenue Chalé - Landing Page de Serviços -
+# Bienvenue Chalé - Landing Page de Serviços
 
 ![Banner](assets/exterior-chale.jpg)
 
