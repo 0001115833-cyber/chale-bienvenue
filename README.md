@@ -1,5 +1,7 @@
 # Bienvenue Chalé - Landing Page de Serviços
 
+Aluna: Roberta Antunes
+
 ![Banner](assets/exterior-chale.jpg)
 
 ## 🏡 Visão Geral
