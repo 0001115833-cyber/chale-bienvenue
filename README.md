@@ -4,7 +4,7 @@ Aluna: Roberta Ferreira Antunes
 
 ![Banner](assets/exterior-chale.jpg)
 
-## 🏡 Visão Geral
+## 🏡 Visão Geral !
 
 **Bienvenue Chalé** é uma landing page responsiva desenvolvida para apresentar uma experiência de hospedagem premium em um chalé aconchegante. O projeto foca em **UX**, **qualidade de código**, interatividade e **estilo elegante** com cores marrom e bege, incluindo **dark mode**.
 
